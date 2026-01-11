@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "DragSearch",
+  "version": "1.0.0",
+  "description": "드래그한 텍스트를 다양한 검색 엔진에서 검색할 수 있는 확장 프로그램",
+  "permissions": [],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "css": ["styles.css"]
+    }
+  ],
+  "icons": {
+    "128": "icons/icon128.png"
+  }
+}
