@@ -55,3 +55,6 @@ DragSearch/
 
 - [ ] 커스텀 검색 엔진 추가 기능
 - [ ] 사용자 설정 옵션 (검색 엔진 선택/제외)
+
+## Icons
+- [Simple Icons](https://simpleicons.org/?q=google "Simple Icons")
